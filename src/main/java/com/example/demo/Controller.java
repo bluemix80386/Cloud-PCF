@@ -9,7 +9,7 @@ public class Controller {
 	
 	@RequestMapping("/pcf")
 	public String pivotalCloud() {
-		return "Welcome to pivotal cloud foundry";
+		return "Welcome to pivotal cloud foundry connected ...........";
 	}
 
 }
